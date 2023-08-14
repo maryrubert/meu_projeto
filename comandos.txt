@@ -4,6 +4,6 @@ git config user.name
 
 git config user.email
 
-git add -add
+git add -A
 
 git commit -m "Arquivo comandos.txt criado"
